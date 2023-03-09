@@ -1,3 +1,4 @@
 # dripsofc.tech-
 # My website  
-[`CLICK HERE`](https://dripsofc.tech)
+# click the web icon
+<a href="https://dripsofc.tech" target="blank"><img align="center" height="22px" src="./drips/Web.png" alt="Drips Blennie" /></a> 
